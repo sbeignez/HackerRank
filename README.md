@@ -55,6 +55,7 @@ This repository contains solutions to Hackerrank practice problems.
 - African Cities | [Problem](https://www.hackerrank.com/challenges/african-cities/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/04.%20Basic%20Join/african-cities.sql) * 
 - Average Population of Each Continent | [Problem](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/04.%20Basic%20Join/average-population-of-each-continent.sql) *
 - The Report | [Problem](https://www.hackerrank.com/challenges/the-report/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/04.%20Basic%20Join/004.%20The%20Report.sql)
+- Full Score | [Problem](https://www.hackerrank.com/challenges/full-score/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/04.%20Basic%20Join/full-score.sql) * 
 ### 05. Advanced Join
 - Placements | Medium SQL (Intermediate) Max Score: 40 Success Rate: 98.00%
 - Symmetric Pairs | Medium SQL (Intermediate) Max Score: 40 Success Rate: 95.75%
