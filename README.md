@@ -9,7 +9,7 @@ This repository contains solutions to Hackerrank practice problems.
 ## SQL
 ### 01. Basic Select
 - Revising the Select Query I | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/01.%20Basic%20Select/revising-the-select-query.sql) *
-- Revising the Select Query II | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/01.%20Basic%20Select/002.%20Revising%20the%20Select%20Query%20II.sql)
+- Revising the Select Query II | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/01.%20Basic%20Select/revising-the-select-query-2.sql) | keys: WHERE, AND
 - Select All | [Problem](https://www.hackerrank.com/challenges/select-all-sql/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/01.%20Basic%20Select/003.%20Select%20All.sql)
 - Select By ID | [Problem](https://www.hackerrank.com/challenges/select-by-id/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/01.%20Basic%20Select/004.%20Select%20By%20ID.sql)
 - Japanese Cities' Attributes | [Problem](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/01.%20Basic%20Select/005.%20Japanese%20Cities'%20Attributes.sql)
@@ -29,9 +29,10 @@ This repository contains solutions to Hackerrank practice problems.
 - Employee Names | [Problem](https://www.hackerrank.com/challenges/name-of-employees/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/01.%20Basic%20Select/019.%20Employee%20Names.sql)
 - Employee Salaries | [Problem](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/01.%20Basic%20Select/020.%20Employee%20Salaries.sql)
 ### 02. Advanced Select
-- Type of Triangle | [Problem | [Problem](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/02.%20Advanced%20Select/what-type-of-triangle.sql) *
-- The PADS | [Problem | [Problem](https://www.hackerrank.com/challenges/the-pads) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/02.%20Advanced%20Select/the-pads.sql) *
-- Binary Tree Nodes | [Problem](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/02.%20Advanced%20Select/004.%20Binary%20Tree%20Nodes.sql)
+- Type of Triangle | [Problem | [Problem](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/02.%20Advanced%20Select/what-type-of-triangle.sql) |
+- The PADS | [Problem | [Problem](https://www.hackerrank.com/challenges/the-pads) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/02.%20Advanced%20Select/the-pads.sql) | 
+- Binary Tree Nodes | [Problem](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/02.%20Advanced%20Select/binary-search-tree-1.sql) | keys: CASE, Sub-query
+- The company | [Problem](https://www.hackerrank.com/challenges/the-company/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/02.%20Advanced%20Select/the-company.sql) | key: COUNT DISTINCT
 ### 03. Aggregation
 - Revising Aggregations - The Count Function | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/03.%20Aggregation/001.%20Revising%20Aggregations%20-%20The%20Count%20Function.sql)
 - Revising Aggregations - The Sum Function | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/03.%20Aggregation/002.%20Revising%20Aggregations%20-%20The%20Sum%20Function.sql)
@@ -51,18 +52,24 @@ This repository contains solutions to Hackerrank practice problems.
 - Weather Observation Station 19 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/03.%20Aggregation/016.%20Weather%20Observation%20Station%2019.sql)
 - Weather Observation Station 20 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/03.%20Aggregation/017.%20Weather%20Observation%20Station%2020.sql)
 ### 04. Basic Join
-- Asian Population | [Problem](https://www.hackerrank.com/challenges/asian-population/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/04.%20Basic%20Join/asian-population.sql) * 
-- African Cities | [Problem](https://www.hackerrank.com/challenges/african-cities/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/04.%20Basic%20Join/african-cities.sql) * 
-- Average Population of Each Continent | [Problem](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/04.%20Basic%20Join/average-population-of-each-continent.sql) *
-- The Report | [Problem](https://www.hackerrank.com/challenges/the-report/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/04.%20Basic%20Join/004.%20The%20Report.sql)
-- Full Score | [Problem](https://www.hackerrank.com/challenges/full-score/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/04.%20Basic%20Join/full-score.sql) * 
-- Ollivander's Inventory | [Problem](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/04.%20Basic%20Join/harry-potter-and-wands.sql) * 
+- Population Census (asian-population) | [Problem](https://www.hackerrank.com/challenges/asian-population/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/04.%20Basic%20Join/asian-population.sql) | keys: JOIN, WHERE 
+- African Cities | [Problem](https://www.hackerrank.com/challenges/african-cities/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/04.%20Basic%20Join/african-cities.sql) | keys:  
+- Average Population of Each Continent | [Problem](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/04.%20Basic%20Join/average-population-of-each-continent.sql) | keys: 
+- The Report | [Problem](https://www.hackerrank.com/challenges/the-report/problem) | [Solution] | keys: 
+- Top Competitors (full-score) | [Problem](https://www.hackerrank.com/challenges/full-score/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/04.%20Basic%20Join/full-score.sql) * 
+- Ollivander's Inventory (harry-potter-and-wands) | [Problem](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/04.%20Basic%20Join/harry-potter-and-wands.sql) | keys:
+- Challenges
+- Contest Leaderboard
+
+
 
 ### 05. Advanced Join
-- Placements | Medium SQL (Intermediate) Max Score: 40 Success Rate: 98.00%
-- Symmetric Pairs | Medium SQL (Intermediate) Max Score: 40 Success Rate: 95.75%
-- Interviews | Hard SQL (Intermediate)Max Score: 50 Success Rate: 88.21%
-- 15 Days of Learning SQL | Hard SQL (Advanced) Max Score: 50 Success Rate: 81.83%
+- SQL Project Planning | [Problem] | [Solution]
+- Placements | [Problem](https://www.hackerrank.com/challenges/*/problem) | Solution [](https://github.com/sbeignez/HackerRank/blob/master/SQL/05.%20Advanced%20Join/*.sql) | Medium 40pts 
+- Symmetric Pairs | [Problem](https://www.hackerrank.com/challenges/*/problem) | Solution [](https://github.com/sbeignez/HackerRank/blob/master/SQL/05.%20Advanced%20Join/*.sql) | Medium 40pts
+- Interviews | [Problem](https://www.hackerrank.com/challenges/*/problem) | Solution [](https://github.com/sbeignez/HackerRank/blob/master/SQL/05.%20Advanced%20Join/*.sql) | Hard 50pts
+- 15 Days of Learning | [Problem](https://www.hackerrank.com/challenges/*/problem) | Solution [](https://github.com/sbeignez/HackerRank/blob/master/SQL/05.%20Advanced%20Join/*.sql) | Hard 50pts 
+
 ### 06. Alternative Queries
 
 
