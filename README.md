@@ -31,15 +31,16 @@ This repository contains solutions to Hackerrank practice problems.
 - [Problem](https://www.hackerrank.com/challenges/salary-of-employees/problem): Employee Salaries - [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/01-Basic-Select/020.%20Employee%20Salaries.sql)
 
 ### 02. Advanced Select
-- Type of Triangle | [Problem | [Problem](https://www.hackerrank.com/challenges/what-type-of-triangle/problem): XXX - [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/02-Advanced-Select/what-type-of-triangle.sql) |
-- The PADS | [Problem | [Problem](https://www.hackerrank.com/challenges/the-pads): XXX - [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/02-Advanced-Select/the-pads.sql) | 
+- [Problem](https://www.hackerrank.com/challenges/what-type-of-triangle/problem): Type of Triangle - [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/02-Advanced-Select/what-type-of-triangle.sql) |
+- [Problem](https://www.hackerrank.com/challenges/the-pads): The PADS - [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/02-Advanced-Select/the-pads.sql) | 
 - [Problem](https://www.hackerrank.com/challenges/binary-search-tree-1/problem): Binary Tree Nodes - [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/02-Advanced-Select/binary-search-tree-1.sql) | keys: CASE, Sub-query
 - [Problem](https://www.hackerrank.com/challenges/the-company/problem): The company - [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/02-Advanced-Select/the-company.sql) | key: COUNT DISTINCT
+- [Problem](https://www.hackerrank.com/challenges/occupations/problem): Occupations - [Solution]
 
 ### 03. Aggregation
-- Revising Aggregations - [Problem](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem): The Count Function - [Solution] [](https://github.com/sbeignez/HackerRank/blob/master/SQL/03-Aggregation/001.%20Revising%20Aggregations%20-%20The%20Count%20Function.sql)
-- Revising Aggregations - [Problem](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem): The Sum Function - [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/03-Aggregation/revising-aggregations-sum.sql) * 
-- Revising Aggregations - [Problem](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem): Averages - [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/03-Aggregation/revising-aggregations-the-average-function.sql) * 
+- [Problem](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem): Revising Aggregations - The Count Function - [Solution] [](https://github.com/sbeignez/HackerRank/blob/master/SQL/03-Aggregation/001.%20Revising%20Aggregations%20-%20The%20Count%20Function.sql)
+- [Problem](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem): Revising Aggregations - The Sum Function - [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/03-Aggregation/revising-aggregations-sum.sql)
+- [Problem](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem): Revising Aggregations - Averages - [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/03-Aggregation/revising-aggregations-the-average-function.sql)
 - [Problem](https://www.hackerrank.com/challenges/average-population/problem): Average Population - [Solution] [](https://github.com/sbeignez/HackerRank/blob/master/SQL/03-Aggregation/004.%20Average%20Population.sql)
 - [Problem](https://www.hackerrank.com/challenges/japan-population/problem): Japan Population - [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/03-Aggregation/japan-population.sql) | Easy
 - [Problem](https://www.hackerrank.com/challenges/population-density-difference/problem): Population Density Difference - [Solution](https://github.com/sbeignez/HackerRank/blob/master/SQL/03-Aggregation/population-density-difference.sql) | Easy
@@ -73,6 +74,9 @@ This repository contains solutions to Hackerrank practice problems.
 - [Problem](https://www.hackerrank.com/challenges/xxx/problem): 15 Days of Learning - [Solution] [](https://github.com/sbeignez/HackerRank/blob/master/SQL/05-Advanced-Join/*.sql) | Hard
 
 ### 06. Alternative Queries
+- [Problem](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem): Draw the triangle 1 - [Solution]()
+- [Problem](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem): Draw the triangle 2 - [Solution]()
+- [Problem](https://www.hackerrank.com/challenges/print-prime-numbers/problem): Print Prime Numbers - [Solution]()
 
 
 <!--
